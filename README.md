@@ -1,4 +1,4 @@
-# Pre-work: Broken Code
+# Pre-work: CSS Variables
 
 > I was tasked with extracting the colors into CSS Variables & replacing the corresponding occurrences of the color hex codes with the new CSS variables.
 
